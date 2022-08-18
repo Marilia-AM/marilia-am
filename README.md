@@ -1,0 +1,3 @@
+# Eu sou capaz de aprender. Você é capaz de ensinar?
+
+> Status do perfil: Em desenvolvimento...
