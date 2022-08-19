@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariliaamaral//)](https://www.linkedin.com/in/mariliaamaral/)
 
 
-**Mãe, Engenheira, em transição de carreira para Cientista de Dados**
+**Mãe. Engenheira, em transição de carreira para Cientista de Dados**
 
 
 <br>
