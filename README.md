@@ -1,12 +1,12 @@
+> Status: em construção
+
 # Eu sou capaz de aprender. Você é capaz de ensinar?
-### I'm able to learn. Do you know how to teach?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariliaamaral//)](https://www.linkedin.com/in/mariliaamaral/)
 
 
 **Mãe, Engenheira, em transição de carreira para Cientista de Dados**
 
-**Mother, Engineer, on career transition to Data Scientist**
 
 <br>
 
@@ -20,6 +20,9 @@
 
 * SAP Analytics Cloud – Become an Augmented BI Expert
 
+* Business Intelligence: trabalhando com Data Warehouse
+
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 * Python for Beginners
 * Python para Data Science
@@ -29,12 +32,12 @@
 
 * Estatística com Python: frequências e medidas
 
+![MySQL](https://img.shields.io/badge/-mySQL-black?style=flat-square&logo=mySQL)
 * Modelagem de banco de dados relacional: entidades, relacionamentos e atributos
 * SQL Sever: SQL com Microsoft SQL Server 2019
 * Curso MySQL
 
-* Business Intelligence: trabalhando com Data Warehouse
-
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
 * Dashboard com Tableau: conceitos essenciais
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
@@ -43,6 +46,7 @@
 * Power BI Desktop: tratamento de dados no Power Query
 * Power BI: entendendo as fórmulas DAX
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 * JavaScript: tipos, variáveis e funções
 * JavaScript: Arrays
 * JavaScript: objetos
