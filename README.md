@@ -41,7 +41,7 @@
 * Dashboard com Tableau: conceitos essenciais
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
-* Power BI Desktop: construindo meu primeiro dashboard
+* [Power BI Desktop: construindo meu primeiro dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzcyN2ZhZjktYzVhZS00NmUzLTkzNDktYmEwYjI0NzYyOTdkIiwidCI6Ijg5ZmI0ZjFmLTg1NjctNDEyOC1iMWUzLWNhM2IyZTVhYmRmOCJ9)
 * Dashboard com Power BI: visualizando dados
 * Power BI Desktop: tratamento de dados no Power Query
 * Power BI: entendendo as fórmulas DAX
