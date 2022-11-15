@@ -5,8 +5,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariliaamaral//)](https://www.linkedin.com/in/mariliaamaral/)
 
 
-**Mãe. Engenheira, em transição de carreira para Cientista de Dados**
+**Mãe. Engenheira, cursando Pós Graduação em Cientista de Dados**
 
+Estudo de caso para solicitar reembolso do Plano de Saúde
+(https://drive.google.com/file/d/1Cp0CPaA4zc5SU-J1oEsnWUmGQHIKaDVn/view?usp=share_link)
 
 <br>
 
